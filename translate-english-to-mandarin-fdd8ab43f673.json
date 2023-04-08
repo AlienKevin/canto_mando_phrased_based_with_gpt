@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "translate-english-to-mandarin",
+  "private_key_id": "fdd8ab43f673a5091cba1fb00db9fc8d5d06ddf0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiRjVX48bTFLvo\nwwGJoeLmPrNffPwwKfJU3FtEO3va+IurLTZ/iwZSzO7yQHm00F1GEL0JowfY9Jx0\nsW3iCNNyC9y4bvSW0Cl9Gav3gXneX46GcFro94pkyfK1kJLjjUsgnOZ9jtj5N6BI\nnTXvX+DAaALx9XD8uiH56L+KeBsqHVY8X7lfsMnpy1VunIN8uF1DFYOIAPIgBcRa\nWn//SKUsMJV5QWdGmNWRB+gYD1MCT9DZ/2rMMNqUNpX9MSIVhLKipgzApW3cdKsB\nwfTnVWe36ewNzvSaoMOvAWIW9jH30rYCx8V8loP7g8uFKcd6kj8bPQGtqGYdYLDp\nAIlrFFYZAgMBAAECggEACBbd4+K775vR/jlyYy0JxZaMlI8Dd1cv+GD/v7gDZZgM\nRl07oUIJ76i9pJ/oMUZN0AdXlRpmcr9G6V5K7wCnocDLoPoPAVGhL9ZOx0jSDW7Q\nCQ2iyohEgt+6VKi/Wc6aVybbKpkrYckPGW+U17j82DqXIv6sQjz5Ip8ipUF1gTTe\n0GxBj94WGHwm77c4kaEoTjoVioZk/nDZKJ0Ne/m7ACbObH/KByQjEkqsY1V8vMoA\nmIZjEowpZSD5BIw//OUrAu5d67vvzRqsYgydoe3i3y/J54KppkAegUTOxqYtj7oG\n7awqqVbD0fHygou/OgDEPEVTR81ejV7/tvzPUnrUcQKBgQDaLciYZx1xnokk7shQ\nS8yd+Omy0JOrvWBJC6NOq8zgSiQ4NOIZWC7UPotGYbh9tRl2SmKy362v7TAn8OyW\nGMdMsqYJywPt+qml92xZv4D/ZbYvvVEc1zBZ1pIZvFhLXo2tmPMQhMDS/RzlJOQU\nOzQh4wc9aRmWhdHPeWBXzwoFTQKBgQC+Z4XQBB84HzOA0/l6CieKXfctDfDMtMeF\nYTEctyPF/UEOGaZVxc+e3oj1jmK8/RIzLusH7xRzCKHOE2Cix0la9Zy96sAEioq6\nEnve0LtZHRnesNRCuxKi8GNeVk+GYYKSbYGerKeahwAimIOfNQZVPltB8jrIKxDL\nLtwdSrD9/QKBgE4rozh/kXwY+jhCWYDzd4+OFGVd99rLkkj5o3xXb6NYzRtaTzwX\nbUfcVNhVwN1BWqsYQb6nB7sFt4BIAOxSWm3vgC/4DiNg8RGm0apiQ9y924XFRd+Y\ndhlqGJSh99yhNw/gwg3EErZFu+mZyyI4iBgwGHL3ShS1Q5Qbf9pWMtftAoGBAJC3\n9okI2QG7FVZRx0ju9ubATOK9ucydixjhqoZ83H/b4dppvHdtBkVmNwsM0hd68p5c\nht9c5FoasYEEUWrnteWg0SW4i4HoG1EaQ3QzinJNICCWnn6p2ZxmweAuEfu9mZTa\nDq8f47Qb8ApbiY80qj+YSZxyFCOYOAd28m6BGs2xAoGBAL7FC6a8RieaVuMi+n80\nVmadR1U8SvhdDJEUYWUYdkWuY62tO2Ni9o205IOWMq0AAmyyAExepVn0MgxIJ0Uc\nbke1fXslJUMneqofU6mlxVSwmyellg742ontuwqiBuWQmG80opaa1/DxXze9Ozv1\nSiERFpZvygQpO3Tl9Q2A9Gea\n-----END PRIVATE KEY-----\n",
+  "client_email": "translator@translate-english-to-mandarin.iam.gserviceaccount.com",
+  "client_id": "115273137743671431293",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translator%40translate-english-to-mandarin.iam.gserviceaccount.com"
+}

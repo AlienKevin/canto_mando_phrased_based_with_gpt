@@ -7,3 +7,13 @@ Common traditional characters: https://github.com/kaienfr/Font/blob/master/learn
 Common Cantonese words: https://github.com/rime/rime-pinyin-simp/blob/master/pinyin_simp.dict.yaml
 
 Common Mandarin words: https://github.com/liangqi/chinese-frequency-word-list/blob/master/xiandaihaiyuchangyongcibiao.txt
+
+# Google Cloud Translate API
+
+```
+pip install google-cloud-translate==2.0.1
+```
+
+```
+export GOOGLE_APPLICATION_CREDENTIALS=translate-english-to-mandarin-c793a8415d64.json
+```
