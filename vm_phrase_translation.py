@@ -9,7 +9,7 @@ from collections import defaultdict
 
 can2man_table = defaultdict(list)
 
-with open("can2man_phrase_table.txt", "r") as input_file:
+with open("can2man_phrase_table_full.txt", "r") as input_file:
   for line in input_file.read().splitlines():
     [can, man] = line.split("|")
     can2man_table[can].append(man)
