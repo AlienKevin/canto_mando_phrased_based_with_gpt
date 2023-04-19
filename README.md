@@ -1,3 +1,7 @@
+# Guide
+
+Please see `phrase_table.ipynb` for phrase-based translation using a Mandarin GPT.
+
 # Sources
 
 Cantonese-Mandarin phrase table: https://github.com/bluebat/msgchi/blob/master/cmn2yue.dic
